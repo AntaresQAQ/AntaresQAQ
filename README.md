@@ -1,6 +1,7 @@
 Here is Antares. A rookie college student of software engineering. 
 
 <img height="25" src="icons/transgender-flag-svgrepo-com.svg"/> <img height="25" src="icons/rainbow-flag-svgrepo-com.svg"> <img height="24" src="icons/woman-power-emblem.svg"> <img height="25" src="icons/anarchy-svgrepo-com.svg"> <img height="24" src="icons/rb-star.svg"> <img height="20" src="icons/pacifism-peace-svgrepo-com.svg">
+
 <img height="20" src="icons/typescript-svgrepo-com.svg"> <img height="20" src="icons/javascript-svgrepo-com.svg"> <img height="30" src="icons/nodejs-svgrepo-com.svg"> <img height="22" src="icons/python-svgrepo-com.svg"> <img height="26" src="icons/cplusplus-svgrepo-com.svg"> 
 
 ![](https://github-readme-stats.vercel.app/api?username=AntaresQAQ&show_icons=true&theme=material-palenight)
