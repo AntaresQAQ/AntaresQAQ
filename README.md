@@ -1,6 +1,6 @@
 Here is Antares. A rookie college student of software engineering. 
 
-Girl friend: [Ache](https://github.com/AcheHe)
+My lover: [Ache](https://github.com/AcheHe)
 
 <img height="30" src="icons/transgender-flag-svgrepo-com.svg"/> <img height="30" src="icons/rainbow-flag-svgrepo-com.svg"> <img height="30" src="icons/woman-power-emblem.svg"> <img height="30" src="icons/anarchy-svgrepo-com.svg"> <img height="30" src="icons/rb-star.svg"> <img height="28" src="icons/pacifism-peace-svgrepo-com.svg">
 
