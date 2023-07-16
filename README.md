@@ -1,4 +1,4 @@
-Here is Antares. A rookie college student of software engineering. Internship at Microsoft.
+Here is Antares. A rookie software engineer at Microsoft.
 
 My lover: [Ache](https://github.com/AcheHe)
 
