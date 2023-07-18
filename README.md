@@ -2,8 +2,6 @@ Here is Antares. A rookie software engineer at Microsoft.
 
 My lover: [Ache](https://github.com/AcheHe)
 
-<img height="36" src="icons/transgender-flag-svgrepo-com.svg"/> <img height="36" src="icons/rainbow-flag-svgrepo-com.svg"> <img height="36" src="icons/woman-power-emblem.svg"> <img height="36" src="icons/anarchy-svgrepo-com.svg"> <img height="36" src="icons/rb-star.svg"> <img height="34" src="icons/pacifism-peace-svgrepo-com.svg">
-
 <img height="32" src="icons/typescript-svgrepo-com.svg"> <img height="32" src="icons/javascript-svgrepo-com.svg"> <img height="36" src="icons/nodejs-svgrepo-com.svg"> <img height="36" src="icons/react-svgrepo-com.svg"> <img height="36" src="icons/python-svgrepo-com.svg"> <img height="36" src="icons/csharp-svgrepo-com.svg"> <img height="36" src="icons/cpp3-svgrepo-com.svg">
 
 ![](https://github-readme-stats.vercel.app/api?username=AntaresQAQ&show_icons=true&theme=material-palenight)
