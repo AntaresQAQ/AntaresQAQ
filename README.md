@@ -2,7 +2,15 @@ Here is Antares. A rookie software engineer at Microsoft.
 
 Girl friend: [Ache](https://github.com/AcheHe)
 
-<img height="32" src="icons/typescript-svgrepo-com.svg"> <img height="32" src="icons/javascript-svgrepo-com.svg"> <img height="36" src="icons/nodejs-svgrepo-com.svg"> <img height="36" src="icons/react-svgrepo-com.svg"> <img height="36" src="icons/python-svgrepo-com.svg"> <img height="36" src="icons/csharp-svgrepo-com.svg"> <img height="36" src="icons/cpp3-svgrepo-com.svg">
+![](https://skillicons.dev/icons?i=ts,js,py,cs,cpp,go)
+
+![](https://skillicons.dev/icons?i=html,css,md,latex)
+
+![](https://skillicons.dev/icons?i=nodejs,nestjs,express,react,redux,vue,vite)
+
+![](https://skillicons.dev/icons?i=docker,github,azure,cloudflare)
+
+![](https://skillicons.dev/icons?i=vscode,visualstudio,idea,vim,emacs)
 
 ![](https://github-readme-stats.vercel.app/api?username=AntaresQAQ&show_icons=true&theme=material-palenight)
 
